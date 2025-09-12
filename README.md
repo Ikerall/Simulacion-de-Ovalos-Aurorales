@@ -1,2 +1,2 @@
-# Simulaci-n-de-valos-Aurorales
+# Simulacion-de-Ovalos-Aurorales
 Source code usado para la simulación del ovalos aurorales utilizando los modelos de Ley de Escala, Starkov y Tsyganenko T96.
